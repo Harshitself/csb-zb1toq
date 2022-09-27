@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harshitself.github.io/csb-zb1toq/static/css/main.c91c1f88.chunk.css",
+    "main.js": "https://harshitself.github.io/csb-zb1toq/static/js/main.e19f29a3.chunk.js",
+    "main.js.map": "https://harshitself.github.io/csb-zb1toq/static/js/main.e19f29a3.chunk.js.map",
+    "runtime-main.js": "https://harshitself.github.io/csb-zb1toq/static/js/runtime-main.6eb881ff.js",
+    "runtime-main.js.map": "https://harshitself.github.io/csb-zb1toq/static/js/runtime-main.6eb881ff.js.map",
+    "static/js/2.86bfa083.chunk.js": "https://harshitself.github.io/csb-zb1toq/static/js/2.86bfa083.chunk.js",
+    "static/js/2.86bfa083.chunk.js.map": "https://harshitself.github.io/csb-zb1toq/static/js/2.86bfa083.chunk.js.map",
+    "index.html": "https://harshitself.github.io/csb-zb1toq/index.html",
+    "static/css/main.c91c1f88.chunk.css.map": "https://harshitself.github.io/csb-zb1toq/static/css/main.c91c1f88.chunk.css.map",
+    "static/js/2.86bfa083.chunk.js.LICENSE.txt": "https://harshitself.github.io/csb-zb1toq/static/js/2.86bfa083.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eb881ff.js",
+    "static/js/2.86bfa083.chunk.js",
+    "static/css/main.c91c1f88.chunk.css",
+    "static/js/main.e19f29a3.chunk.js"
+  ]
+}
